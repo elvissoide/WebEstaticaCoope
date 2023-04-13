@@ -1,0 +1,62 @@
+body{
+    background-color: #efeeb4;
+    font-size: 100%;
+    margin: 0;
+}
+
+h1, h2, h3, h4 ,p {
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+}
+
+header{
+    margin: 0;
+    padding: 1rem 2rem;
+    /* background-color: #58b358; */
+    background-color: #399930;
+}
+
+main{
+    padding: 1rem 2rem;
+}
+
+div.intro{
+    padding: 1rem 2rem;
+    background-color: #dad861;
+}
+
+p.estilo{
+    text-align: justify;
+}
+
+h2{
+    padding-bottom: 0.1rem;
+}
+
+h3{
+    background-color: white;
+    text-align: center;
+    padding: 1rem 0 0.8rem 0;
+    border-radius: 10px;
+}
+
+h4{
+    padding-top: 0.5rem;
+    padding-left: 0.4rem;
+}
+
+div.articulos{
+    border: 3px solid black;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+
+ol{
+    margin-right: 0.5rem;
+}
